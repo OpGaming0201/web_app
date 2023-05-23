@@ -10,4 +10,5 @@
         "url": "https://github.com/OpGaming0201/myapp_01/issues"
     },
     "homepage": "https://github.com/OpGaming0201/myapp_01#readme"
+    "bin":{ "script1": "bin/script1.js" }
 }
